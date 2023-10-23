@@ -1,6 +1,6 @@
 # CS 4740 Fa'23 HW3
 
-Semantic Role Labelling (SRL) using LSTMs and Encoder-Decoder architectures. 
+Semantic Role Labeling (SRL) using LSTMs and Encoder-Decoder architectures. 
 
 ---
 
@@ -24,7 +24,7 @@ the `setup.ipynb`.
 
 Once you have successfully cloned the package to your Google Drive under `/content/drive/MyDrive/CS4740` path, you can
 proceed to run: https://github.coecis.cornell.edu/cs4740-fa23-public/hw3-fa23/blob/main/notebooks/Student_CS_4740_FA23_HW3.ipynb. The file should be
-located at `/content/drive/MyDrive/CS4740/hw2-fa23/notebooks/notebooks/Student_CS_4740_FA23_HW3.ipynb`.
+located at `/content/drive/MyDrive/CS4740/hw3-fa23/notebooks/notebooks/Student_CS_4740_FA23_HW3.ipynb`.
 
 ## Citation
 
