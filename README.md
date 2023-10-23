@@ -29,7 +29,7 @@ located at `/content/drive/MyDrive/CS4740/hw3-fa23/notebooks/notebooks/Student_C
 ## Citation
 
 **Authors.** Sasha Boguraev<sup>&#9728;</sup>, Vinh Nguyen<sup>&#9728;</sup>, Vivian Nguyen<sup>&#9728;</sup>, Han Xia<sup>&#9728;</sup>,
-Travis Zhang<sup>&#9728;</sup>, Vivian Chen<sup>&#9729;</sup>
+Travis Zhang<sup>&#9728;</sup>, Vivian Chen<sup>&#9729;</sup>,
 Gavin Fogel<sup>&#9729;</sup>, Benjamin Hu<sup>&#9729;</sup>, Sienna Hu<sup>&#9729;</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>&#9728;</sup> software creators, equal contribution, ordered alphabetically <br/>
