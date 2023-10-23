@@ -4,9 +4,9 @@ import torch.nn as nn
 import torch.nn.functional as F
 from typing import List, Tuple, Optional
 from collections import namedtuple
-from utils.vocab import Vocab
-from models.encoder import Encoder
-from models.decoder import Decoder
+from srl.utils.vocab import Vocab
+from srl.models.encoder import Encoder
+from srl.models.decoder import Decoder
 
 
 Hypothesis = namedtuple("Hypothesis", ["value", "score"])
